@@ -9,7 +9,7 @@
 -   [04. Styling][br-04-styles]
 -   [05. Lists][br-05-lists]
 -   [06. Input Components][br-06-input-components]
--   [07. Forms][br-07-forms]
+-   [07. Forms]
 -   [08. Additional Improvements][br-08-additional-improvements]
 -   [08. App deployment][br-08-additional-improvements]
 
