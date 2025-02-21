@@ -11,6 +11,7 @@
 -   [06. Input Components][br-06-input-components]
 -   [07. Forms][br-07-forms]
 -   [08. Additional Improvements][br-08-additional-improvements]
+-   [08. App deployment][br-08-additional-improvements]
 
 ### Part 2:
 
